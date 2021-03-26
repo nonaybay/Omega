@@ -1,0 +1,6 @@
+Launcher
+Omega Debug
+Omega Launcher
+Omega Release
+Themming
+full
