@@ -1,1 +1,1 @@
-{"antiFeatures":{},"commandLine":["/usr/bin/fdroid update"],"disabled":[],"endTimestamp":1616726536871,"failedBuilds":{},"noPackages":["com.saggitt.omega.dev","com.saggitt.omega","org.zimmob.zimlx"],"startTimestamp":1616726533000,"subcommand":"update"}
+{"antiFeatures":{},"commandLine":["/usr/bin/fdroid update"],"disabled":[],"endTimestamp":1616726650588,"failedBuilds":{},"noPackages":["com.saggitt.omega.dev","com.saggitt.omega","org.zimmob.zimlx"],"startTimestamp":1616726646000,"subcommand":"update"}
