@@ -1,1 +1,1 @@
-{"antiFeatures":{},"commandLine":["/usr/bin/fdroid update","-c"],"disabled":[],"endTimestamp":1616726985349,"failedBuilds":{},"noPackages":[],"startTimestamp":1616726982000,"subcommand":"update"}
+{"antiFeatures":{},"commandLine":["/usr/bin/fdroid update"],"disabled":[],"endTimestamp":1616727075948,"failedBuilds":{},"noPackages":[],"startTimestamp":1616727073000,"subcommand":"update"}
