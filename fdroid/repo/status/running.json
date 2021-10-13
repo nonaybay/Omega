@@ -1,0 +1,8 @@
+{
+  "commandLine": [
+    "/usr/bin/fdroid update",
+    "--verbose"
+  ],
+  "startTimestamp": 1634104567000,
+  "subcommand": "update"
+}
